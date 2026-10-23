@@ -1,0 +1,263 @@
+/* Estilo geral da página */
+body {
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+
+/* Cabeçalho */
+header {
+    background-color: #910707ee;
+    color: white;
+    text-align: center;
+
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin-top: 5px;
+}
+
+
+/* Conteúdo principal */
+main {
+    width: 400px;
+
+    margin: 60px auto;
+}
+
+
+/* Caixa de login */
+.login {
+    background-color: white;
+
+    padding: 30px;
+
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+}
+
+.login h2 {/* Estilo geral da página */
+body {
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+
+
+/* Cabeçalho */
+header {
+    background-color: #105412;
+    color: white;
+    text-align: center;
+
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin-top: 5px;
+}
+
+
+/* Conteúdo principal */
+main {
+    width: 400px;
+
+    margin: 60px auto;
+}
+
+
+/* Caixa de login */
+.login {
+    background-color: white;
+
+    padding: 30px;
+
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+}
+
+.login h2 {
+    text-align: center;
+    color: #195c10;
+
+    margin-top: 0;
+}
+
+
+/* Texto abaixo do título */
+.descricao {
+    text-align: center;
+    color: #777777;
+
+    margin-bottom: 30px;
+}
+
+
+/* Campos do formulário */
+label {
+    display: block;
+
+    margin-top: 15px;
+    margin-bottom: 5px;
+
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+
+    padding: 10px;
+
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+
+    box-sizing: border-box;
+}
+
+
+/* Botão */
+button {
+    width: 100%;
+
+    margin-top: 25px;
+    padding: 12px;
+
+    background-color: #105618;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Quando o mouse estiver sobre o botão */
+button:hover {
+    background-color: #2d5b8f;
+}
+
+
+/* Cadastro */
+.cadastro {
+    text-align: center;
+
+    margin-top: 20px;
+
+    font-size: 14px;
+}
+
+.cadastro a {
+    color: #1e3a5f;
+}
+
+
+/* Rodapé */
+footer {
+    text-align: center;
+
+    padding: 15px;
+
+    color: #777777;
+
+    font-size: 13px;
+}
+    text-align: center;
+    color: #1e3a5f;
+
+    margin-top: 0;
+}
+
+
+/* Texto abaixo do título */
+.descricao {
+    text-align: center;
+    color: #777777;
+
+    margin-bottom: 30px;
+}
+
+
+/* Campos do formulário */
+label {
+    display: block;
+
+    margin-top: 15px;
+    margin-bottom: 5px;
+
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+
+    padding: 10px;
+
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+
+    box-sizing: border-box;
+}
+
+
+/* Botão */
+button {
+    width: 100%;
+
+    margin-top: 25px;
+    padding: 12px;
+
+    background-color: #1e3a5f;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Quando o mouse estiver sobre o botão */
+button:hover {
+    background-color: #2d5b8f;
+}
+
+
+/* Cadastro */
+.cadastro {
+    text-align: center;
+
+    margin-top: 20px;
+
+    font-size: 14px;
+}
+
+.cadastro a {
+    color: #1e3a5f;
+}
+
+
+/* Rodapé */
+footer {
+    text-align: center;
+
+    padding: 15px;
+
+    color: #777777;
+
+    font-size: 13px;
+}
